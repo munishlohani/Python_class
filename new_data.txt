@@ -1,0 +1,17 @@
+1. Name of item= apple     Price of item= 20.0     Quantity= 13     Amount= 260.0     Amount with VAT=293.8 
+2. Name of item= momo     Price of item= 200.0     Quantity= 3     Amount= 600.0     Amount with VAT=678.0 
+ 
+ Total amount= 860.0 
+ Total amount with VAT= 971.81. Name of item= momo     Price of item= 200.0     Quantity= 4     Amount= 800.0     Amount with VAT=904.0 
+2. Name of item= pizza     Price of item= 300.0     Quantity= 2     Amount= 600.0     Amount with VAT=678.0 
+3. Name of item= coke     Price of item= 60.0     Quantity= 4     Amount= 240.0     Amount with VAT=271.2 
+4. Name of item= water     Price of item= 4.0     Quantity= 4     Amount= 16.0     Amount with VAT=18.08 
+5. Name of item= burger     Price of item= 300.0     Quantity= 5     Amount= 1500.0     Amount with VAT=1695.0 
+ 
+ Total amount= 3156.0 
+ Total amount with VAT= 3566.2799999999997
+ 1. Name of item= coke     Price of item= 76.0     Quantity= 3     Amount= 228.0     Amount with VAT=257.64 
+2. Name of item= momo     Price of item= 200.0     Quantity= 1     Amount= 200.0     Amount with VAT=226.0 
+ 
+ Total amount= 428.0 
+ Total amount with VAT= 483.64
